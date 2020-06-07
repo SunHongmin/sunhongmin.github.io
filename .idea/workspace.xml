@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f6fd21-894c-4371-8cb2-b111a0faa942" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -53,14 +55,81 @@
       <option name="presentableId" value="Default" />
       <updated>1591514798583</updated>
       <workItem from="1591514799975" duration="558000" />
-      <workItem from="1591515461661" duration="734000" />
+      <workItem from="1591515461661" duration="5560000" />
     </task>
+    <task id="LOCAL-00001" summary="add ignore">
+      <created>1591540437861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591540437861</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add ignore">
+      <created>1591540610661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591540610661</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ignore" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2416" y="93" key="CommitChangelistDialog2" timestamp="1591540609736">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2416" y="93" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591540609736" />
+    <state x="2194" y="155" key="DiffContextDialog" timestamp="1591540400983">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2194" y="155" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591540400983" />
+    <state x="2408" y="236" key="Vcs.Push.Dialog.v2" timestamp="1591540173490">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2408" y="236" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591540173490" />
     <state x="2556" y="253" width="647" height="534" key="find.popup" timestamp="1591515330350">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
